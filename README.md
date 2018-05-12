@@ -1,6 +1,6 @@
 # 个人博客
 
-## Github [zyycode.github.io](https://zyycode.github.io/)
+## Github [zyycode.github.io/blog](https://zyycode.github.io/blog/)
 
 ## 阿里云 [http://www.zyycoder.com/blog/](http://www.zyycoder.com/blog/)
 
